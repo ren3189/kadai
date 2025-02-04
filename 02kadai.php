@@ -12,7 +12,7 @@ $world = "'s World!";
 echo $hello . $name . $world;
 echo "\n";
 $tech_boost = "tech";
-$tech_boost .="boost";
+$tech_boost .= "boost";
 echo $tech_boost;
 echo "\n";
 $calender_2018 = [
